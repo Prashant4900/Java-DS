@@ -1,0 +1,29 @@
+// TODO: Singly Linked List Operations
+
+1. Insert Operations
+
+a. At Index First
+b. At Index Last
+c. At Any Index
+d. Middle
+e. All Elements
+
+2. Display Operations
+
+3. Delete Operations
+
+a. First
+b. Last
+c. Any
+d. Middle
+e. Duplicate
+f. Length
+
+4. Search Node Operations
+
+a. Head
+b. Last
+c. Middle
+d. Any
+
+5. Sort Operations
